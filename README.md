@@ -13,9 +13,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   <a href="https://github.com/diegooliveirajesus">
     <img src="https://img.shields.io/badge/GitHub-DIEGOOLIVEIRAJESUS-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@diego_oliveira.11-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
+<a href="https://www.instagram.com/diego_oliveira.11/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@diego_oliveira.11-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 ---
